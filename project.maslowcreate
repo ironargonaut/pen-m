@@ -18,7 +18,7 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 50.8
+                            "ioValue": 25.4
                         }
                     ]
                 },
@@ -32,7 +32,7 @@
                     "ioValues": [
                         {
                             "name": "InputXrectangle",
-                            "ioValue": 50.8
+                            "ioValue": 25.4
                         }
                     ]
                 },
@@ -47,8 +47,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1792,
-                    "y": 281.5,
+                    "x": 1397,
+                    "y": 199,
                     "ioValues": []
                 }
             ],
@@ -64,6 +64,11 @@
                     "ap2Name": "geometry",
                     "ap1ID": 142629,
                     "ap2ID": 567883
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 142629
                 }
             ],
             "fileTypeVersion": 1
