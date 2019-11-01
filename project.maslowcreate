@@ -18,7 +18,7 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 38.1
+                            "ioValue": 50.8
                         }
                     ]
                 },
@@ -32,7 +32,7 @@
                     "ioValues": [
                         {
                             "name": "InputXrectangle",
-                            "ioValue": 68.1
+                            "ioValue": 50.8
                         }
                     ]
                 },
