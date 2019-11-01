@@ -18,7 +18,7 @@
                     "ioValues": [
                         {
                             "name": "number",
-                            "ioValue": 25.4
+                            "ioValue": 50.8
                         }
                     ]
                 },
@@ -32,7 +32,7 @@
                     "ioValues": [
                         {
                             "name": "InputXrectangle",
-                            "ioValue": 25.4
+                            "ioValue": 50.8
                         }
                     ]
                 },
@@ -47,8 +47,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1397,
-                    "y": 199,
+                    "x": 1792,
+                    "y": 252,
                     "ioValues": []
                 }
             ],
