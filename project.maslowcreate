@@ -25,16 +25,24 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "pen holder",
-                    "x": 567.7307274701411,
-                    "y": 152.39087947882737,
+                    "x": 569.2247557003257,
+                    "y": 148.6558089033659,
                     "uniqueID": 142629,
                     "projectID": "218671553",
                     "ioValues": [
                         {
                             "name": "InputXrectangle",
-                            "ioValue": 38.1
+                            "ioValue": 68.1
                         }
                     ]
+                },
+                {
+                    "atomType": "Svg",
+                    "name": "Svg",
+                    "x": 731.3268186753528,
+                    "y": 212.89902280130292,
+                    "uniqueID": 567883,
+                    "ioValues": []
                 },
                 {
                     "atomType": "Output",
@@ -50,6 +58,12 @@
                     "ap2Name": "InputXrectangle",
                     "ap1ID": 429072,
                     "ap2ID": 142629
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 142629,
+                    "ap2ID": 567883
                 }
             ],
             "fileTypeVersion": 1
