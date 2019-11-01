@@ -10,6 +10,33 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "Constant",
+                    "name": "Constant",
+                    "x": 400.399565689468,
+                    "y": 174.0542888165038,
+                    "uniqueID": 429072,
+                    "ioValues": [
+                        {
+                            "name": "number",
+                            "ioValue": 38.1
+                        }
+                    ]
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "pen holder",
+                    "x": 567.7307274701411,
+                    "y": 152.39087947882737,
+                    "uniqueID": 142629,
+                    "projectID": "218671553",
+                    "ioValues": [
+                        {
+                            "name": "InputXrectangle",
+                            "ioValue": 38.1
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1792,
@@ -17,7 +44,14 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "number",
+                    "ap2Name": "InputXrectangle",
+                    "ap1ID": 429072,
+                    "ap2ID": 142629
+                }
+            ],
             "fileTypeVersion": 1
         }
     ],
