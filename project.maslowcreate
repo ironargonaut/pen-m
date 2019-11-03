@@ -25,8 +25,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "pen holder",
-                    "x": 569.2247557003257,
-                    "y": 148.6558089033659,
+                    "x": 557,
+                    "y": 134,
                     "uniqueID": 142629,
                     "projectID": "218671553",
                     "ioValues": [
@@ -47,8 +47,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1792,
-                    "y": 252,
+                    "x": 1408,
+                    "y": 180.5,
                     "ioValues": []
                 }
             ],
